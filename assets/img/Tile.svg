@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4666662mm"
+   height="8.4666662mm"
+   viewBox="0 0 8.4666662 8.4666662"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Tile.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.474186"
+     inkscape:cx="15.948843"
+     inkscape:cy="18.171223"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-86.179298,-122.82905)">&#10;&#10;<clipPath
+   id="_clip1">
+  <rect
+     x="0"
+     y="0"
+     width="32"
+     height="32"
+     id="rect1" />
+</clipPath>
+<g
+   id="g1">
+  <path
+     d="M 32,8 C 32,3.582 28.418,0 24,0 19.113,0 12.887,0 8,0 3.582,0 0,3.582 0,8 c 0,4.887 0,11.113 0,16 0,4.418 3.582,8 8,8 4.887,0 11.113,0 16,0 4.418,0 8,-3.582 8,-8 0,-4.887 0,-11.113 0,-16 z"
+     id="path1"
+     transform="matrix(0.26458333,0,0,0.26458333,86.179298,122.82905)" />
+  <path
+     id="path2"
+     style="fill:#ffffff;fill-opacity:1"
+     d="m 7.9997652,2.0005486 c -1.5909984,0 -3.1161887,0.6308605 -4.2421876,1.7558594 C 2.6325787,4.8824069 1.9997651,6.4095503 1.9997651,8.0005487 v 12.0000003 4 c 0,3.313997 2.6860034,6 6.0000001,6 H 23.999765 c 3.313997,0 6,-2.686003 6,-6 v -4 -12.0000003 c 0,-3.3139967 -2.686003,-6.0000001 -6,-6.0000001 z"
+     transform="matrix(0.26458333,0,0,0.26458333,86.179298,122.82905)" />
+</g>
+</g>
+</svg>

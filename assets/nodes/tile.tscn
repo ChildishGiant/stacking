@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://ceybdt1n126x2"]
+
+[ext_resource type="Script" path="res://assets/scripts/tile.gd" id="1_w8wsp"]
+[ext_resource type="Texture2D" uid="uid://ch6f7gewfivm3" path="res://assets/img/Tile.png" id="2_sl0sp"]
+[ext_resource type="Texture2D" uid="uid://dvoumoj0e7ely" path="res://assets/img/mutant/png-256/0_char.png" id="3_oqyy8"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gfjfc"]
+size = Vector2(32, 32)
+
+[node name="Tile" type="Area2D"]
+position = Vector2(64, 64)
+scale = Vector2(4, 4)
+script = ExtResource("1_w8wsp")
+
+[node name="Background" type="Sprite2D" parent="."]
+scale = Vector2(0.125, 0.125)
+texture = ExtResource("2_sl0sp")
+
+[node name="Emoji" type="Sprite2D" parent="."]
+scale = Vector2(0.0859375, 0.0859375)
+texture = ExtResource("3_oqyy8")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_gfjfc")
+
+[connection signal="input_event" from="." to="." method="tile_input"]

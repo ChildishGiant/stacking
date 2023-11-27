@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://d1yo7vsmkwrot"]
+
+[ext_resource type="Script" path="res://assets/scripts/rack.gd" id="1_06bbs"]
+
+[node name="rack" type="Node2D"]
+script = ExtResource("1_06bbs")
+
+[node name="Panel" type="Panel" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
